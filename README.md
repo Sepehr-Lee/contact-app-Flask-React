@@ -12,11 +12,11 @@ Usage:
 
 1. clone and downlaod the repo
 2. cd into app's directory 
-3.1 use docker-compose down (if you have a project running)
-3.2 use docker-compose build --no-cache
-3.3 use docker-compose up
-4. let the docker built and serve the app
-5. visit the given local host address (use the port given). ex: http://localhost:5000
+3. use docker compose down (if you have a project running)
+4. use docker compose build --no-cache
+5. use docker compose up
+6. let the docker built and serve the app
+7. visit the given local host address (use the port given). ex: http://localhost:5000
 
 the backend will give you logging info in the terminal as you create, edit or delete content.
 
